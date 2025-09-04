@@ -36,7 +36,7 @@ A análise revelou insights valiosos para a otimização das campanhas:
 
 O gráfico abaixo resume as principais descobertas, comparando o custo por clique e o custo por conversão entre os diferentes segmentos de público.
 
-![Gráfico de Análise de Segmentação] [Cpc.png](https://github.com/ogabrielguedes/analise_de_performance-meta_ads/blob/main/CPC.png) [Cpcon.png](https://github.com/ogabrielguedes/analise_de_performance-meta_ads/blob/main/CPCon.png)
+Gráfico de Análise de Segmentação: [Cpc.png](https://github.com/ogabrielguedes/analise_de_performance-meta_ads/blob/main/CPC.png) [Cpcon.png](https://github.com/ogabrielguedes/analise_de_performance-meta_ads/blob/main/CPCon.png)
 
 ## Conclusão e Próximos Passos
 
